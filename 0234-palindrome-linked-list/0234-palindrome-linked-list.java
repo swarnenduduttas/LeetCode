@@ -31,7 +31,7 @@ class Solution {
 
         while(second != null){
             if(first.val != second.val){
-                reverseList_RECURSIVE(newHead);
+                //reverseList_RECURSIVE(newHead);
                 return false;
             }
             first = first.next;
@@ -39,7 +39,7 @@ class Solution {
         }
 
         //restore the order before returning
-        reverseList_RECURSIVE(newHead);
+        //reverseList_RECURSIVE(newHead);
         return true;
     }
 
