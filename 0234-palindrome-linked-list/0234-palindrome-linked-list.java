@@ -17,13 +17,13 @@ class Solution {
         ListNode fast = head;
         ListNode slow = head;
 
-        while(fast.next != null && fast.next.next != null){
+        while(fast != null && fast.next != null){
             fast = fast.next.next;
             slow = slow.next;
         }
 
         //reverse the 2nd half;
-        ListNode newHead = reverseList_RECURSIVE(slow.next);
+        ListNode newHead = reverseList_RECURSIVE(slow);
 
         //Compare the values
         ListNode first = head;
