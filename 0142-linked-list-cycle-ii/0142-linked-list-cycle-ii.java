@@ -11,18 +11,27 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-         Map<ListNode, Integer> map = new HashMap<>();
-        int counter=1;
-        ListNode temp = head;
+        if(head == null || head.next == null){
+            return null;
+        }
+         ListNode fast = head;
+        ListNode slow = head;
 
-        while(temp != null){
-            counter++;
-            if(map.containsKey(temp)){
-                return temp;
-            } else {
-                map.put(temp, counter);
+        while(fast!= null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            if(fast == slow)
+                break;
+        }
+        slow = head;
+        while(fast != null){
+            
+            if(fast == slow){
+                return fast;
             }
-            temp = temp.next;
+            fast = fast.next;
+            slow = slow.next;
+
         }
         return null;
     }
