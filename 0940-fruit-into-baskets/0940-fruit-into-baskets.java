@@ -13,13 +13,13 @@ class Solution {
             }
 
             if (map1.size() > 2) {
-                while (map1.size() > 2) {
+               // while (map1.size() > 2) {
                     map1.put(fruits[l], map1.get(fruits[l]) - 1);
                     if (map1.get(fruits[l]) == 0) {
                         map1.remove(fruits[l]);
                     }
                     l++;
-                }
+               // }
             }
 
             maxLen = Math.max(maxLen, r - l + 1);
