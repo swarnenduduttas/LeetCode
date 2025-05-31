@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/swarnenduduttas/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/swarnenduduttas/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/swarnenduduttas/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swarnenduduttas/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/swarnenduduttas/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/swarnenduduttas/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/swarnenduduttas/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/swarnenduduttas/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/swarnenduduttas/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/swarnenduduttas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
