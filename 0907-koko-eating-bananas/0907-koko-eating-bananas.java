@@ -1,17 +1,17 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int ans = Integer.MAX_VALUE;
         int low = 1;
         int high = maxInArray(piles);
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            long hours = findHours(piles, mid);
+        int ans = Integer.MAX_VALUE;
 
-            if (hours <= h) {
+        while(low<=high){
+            int mid = (low+high)/2;
+             long hours = findHours(piles, mid);
+            if(hours <= h){
                 ans = Math.min(ans, mid);
-                high = mid - 1;
+                high = mid-1;
             } else {
-                low = mid + 1;
+                low = mid+1;
             }
         }
         return ans;
@@ -24,7 +24,6 @@ class Solution {
         }
         return hours;
     }
-
     private int maxInArray(int[] piles) {
         int max = Integer.MIN_VALUE;
         for (int pile : piles) {
