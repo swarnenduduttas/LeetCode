@@ -1,38 +1,36 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-       if (bloomDay.length < (long) m * k) return -1; // Not enough flowers
-        
         int low = Arrays.stream(bloomDay).min().getAsInt();
         int high = Arrays.stream(bloomDay).max().getAsInt();
         int ans = -1;
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2; // Avoid overflow
-            if (canMakeBouquets(bloomDay, mid, m, k)) {
+        while(low<=high){
+            int mid = (low+high)/2;
+            if(possible(bloomDay, k, m, mid)){
                 ans = mid;
-                high = mid - 1;
+                high = mid-1;
             } else {
-                low = mid + 1;
+                low = mid+1;
             }
         }
         return ans;
     }
-    private boolean canMakeBouquets(int[] bloomDay, int days, int m, int k) {
-        int count = 0, bouquets = 0;
 
-        for (int bloom : bloomDay) {
-            if (bloom <= days) {
-                count++;
-                if (count == k) { // Enough flowers for one bouquet
-                    bouquets++;
-                    count = 0;
-                }
+    boolean possible(int[] bloomDay, int k, int m, int day){
+
+        int counter = 0;
+        int bouquet = 0;
+        for(int i = 0 ; i< bloomDay.length; i++){
+           
+            if(bloomDay[i]<= day){
+                counter++;
             } else {
-                count = 0; // Reset counter if flowers aren't ready
+                bouquet+= counter/k;
+                counter = 0;
             }
-            if (bouquets >= m) return true; // Early exit if requirement met
         }
-        return false;
+        bouquet += counter/k;;
+        
+        return bouquet >= m;
     }
-
-}
+}  
