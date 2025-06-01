@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/swarnenduduttas/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/swarnenduduttas/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/swarnenduduttas/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/swarnenduduttas/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/swarnenduduttas/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/swarnenduduttas/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/swarnenduduttas/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/swarnenduduttas/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/swarnenduduttas/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
