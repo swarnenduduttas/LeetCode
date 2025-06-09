@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/swarnenduduttas/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/swarnenduduttas/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/swarnenduduttas/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/swarnenduduttas/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/swarnenduduttas/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swarnenduduttas/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swarnenduduttas/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/swarnenduduttas/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/swarnenduduttas/LeetCode/tree/master/0908-middle-of-the-linked-list) |
