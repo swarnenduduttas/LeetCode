@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/swarnenduduttas/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/swarnenduduttas/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swarnenduduttas/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarnenduduttas/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnenduduttas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/swarnenduduttas/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/swarnenduduttas/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/swarnenduduttas/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/swarnenduduttas/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/swarnenduduttas/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/swarnenduduttas/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/swarnenduduttas/LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
