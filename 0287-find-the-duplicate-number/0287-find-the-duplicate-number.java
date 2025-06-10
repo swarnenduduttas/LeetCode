@@ -1,13 +1,25 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        for(int i =0 ; i< nums.length; i++){
-            if(set.contains(nums[i])){
-                return nums[i];
-            } else {
-                set.add(nums[i]);
-            }
+        //using the Floyd's two pointer algo
+       int slow = 0;
+       int fast = 0;
+
+       while(true){
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+        if(fast == slow){
+            break;
         }
-        return -1;
+       }
+       int pointer = 0;
+
+       while(true){
+        slow = nums[slow];
+        pointer = nums[pointer];
+        if(slow == pointer){
+            break;
+        }
+       }
+       return pointer;
     }
 }
