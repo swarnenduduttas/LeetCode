@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/swarnenduduttas/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/swarnenduduttas/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/swarnenduduttas/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/swarnenduduttas/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swarnenduduttas/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/swarnenduduttas/LeetCode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swarnenduduttas/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/swarnenduduttas/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
