@@ -8,17 +8,18 @@ class Solution {
             int start1 = firstList[i][0]; int end1 = firstList[i][1];
             int start2 = secondList[j][0]; int end2 = secondList[j][1];
 
-            if(start2 >= start1){
-                if(end1 >= start2) {
+            if(start2 <= end1 && end2>= start1){
+            //if(start2 >= start1){
+            //    if(end1 >= start2) {
                     int start = Math.max(start1,start2);
                     int end = Math.min(end1, end2);
                     res.add(new int[]{start,end});
                 } 
-            } else if(end2 >= start1) {
-                    int start = Math.max(start1,start2);
-                    int end = Math.min(end1, end2);
-                    res.add(new int[]{start,end});
-            }
+            //} else if(end2 >= start1) {
+            //        int start = Math.max(start1,start2);
+            //        int end = Math.min(end1, end2);
+            //        res.add(new int[]{start,end});
+            //}
             if(end2>=end1){
                 i++;
             } else {
