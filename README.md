@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/swarnenduduttas/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnenduduttas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/swarnenduduttas/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/swarnenduduttas/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/swarnenduduttas/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/swarnenduduttas/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/swarnenduduttas/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/swarnenduduttas/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/swarnenduduttas/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swarnenduduttas/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/swarnenduduttas/LeetCode/tree/master/0986-interval-list-intersections) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/swarnenduduttas/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
