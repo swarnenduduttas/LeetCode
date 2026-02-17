@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/swarnenduduttas/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarnenduduttas/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnenduduttas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/swarnenduduttas/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/swarnenduduttas/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/swarnenduduttas/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/swarnenduduttas/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swarnenduduttas/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/swarnenduduttas/LeetCode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/swarnenduduttas/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/swarnenduduttas/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swarnenduduttas/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/swarnenduduttas/LeetCode/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/swarnenduduttas/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
