@@ -11,24 +11,12 @@ class Solution {
             int freq = e.getValue();
             if(freq%2 == 0){
                 len = len + freq;
-            } else if(freq == 1) {
-                isOdd = true;
             } else {
+                len = len + freq - 1;
                 isOdd = true;
             }
         }
 
-        if(!isOdd){
-            return len;
-        }
-
-        for(Map.Entry<Character, Integer> e : map1.entrySet()){
-            int freq = e.getValue();
-            if(freq%2 != 0){
-                len = len + freq-1;
-            }
-        }
-
-        return len+1;
+        return isOdd ? len+1: len;
     }
 }
