@@ -25,14 +25,6 @@ class Solution {
         return res;
     }
 
-    int findMinElem(int[] piles) {
-        int res = Integer.MAX_VALUE;
-        for (int i = 0; i < piles.length; i++) {
-            res = Math.min(res, piles[i]);
-        }
-        return res;
-    }
-
     long hoursNeeded(int[] piles, int rate) {
         long res = 0;
 
