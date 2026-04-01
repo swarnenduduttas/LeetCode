@@ -4,18 +4,17 @@ class Solution {
         int n = matrix[0].length;
 
         //start with a corner;
-        int row = m-1;
+        int row = m - 1;
         int col = 0;
 
-        while(row> -1 && col < n) {
+        while (row > -1 && col < n) {
             int result = matrix[row][col];
-            if(result == target){
+            if (result == target)
                 return true;
-            } else if(result > target){
+            else if (result > target)
                 row--;
-            } else {
+            else
                 col++;
-            }
         }
 
         return false;
