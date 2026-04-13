@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/swarnenduduttas/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swarnenduduttas/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/swarnenduduttas/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/swarnenduduttas/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swarnenduduttas/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/swarnenduduttas/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/swarnenduduttas/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/swarnenduduttas/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
@@ -305,5 +308,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swarnenduduttas/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
