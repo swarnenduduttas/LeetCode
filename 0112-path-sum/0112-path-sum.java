@@ -28,14 +28,14 @@ class Solution {
         if(root == null){
             return;
         }
+
+        sum += root.val;
+
         if(root.left == null && root.right == null){
-            sum+=root.val;
             if(sum == target){
                 result = true;
             }
         }
-
-        sum += root.val;
 
         traverse(root.left, sum, target);
         traverse(root.right, sum, target);
