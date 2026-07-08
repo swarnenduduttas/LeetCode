@@ -1,6 +1,6 @@
 class Solution {
   public int orangesRotting(int[][] grid) {
-        int[] dY = {-1, 1, 0, 0}, dX = {0, 0, 1, -1};
+        int[] dY = {-1, 1, 0, 0}, dX = {0, 0, -1, 1};
         Queue<Pair> q = new LinkedList<>();
         int time = 0;
         int fresh = 0;
