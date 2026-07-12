@@ -2,39 +2,22 @@ class Solution {
    public void solve(char[][] board) {
         int n = board.length;
         int m = board[0].length;
-        int i = 0;
-        int j = 0;
-        while (j < m) {
-            if (board[i][j] == 'O') {
-                dfs(board, n, m, i, j);
+                for(int j =0; j<m;j++){
+            if(board[0][j] == 'O'){
+                dfs(board, n, m, 0, j);
             }
-            j++;
+            if(board[n-1][j] == 'O'){
+                dfs(board, n, m, n-1, j);
+            }
         }
-        i = n - 1;
-        j = 0;
-        while (j < m) {
-            if (board[i][j] == 'O') {
-                dfs(board, n, m, i, j);
+        
+        for(int i =0; i<n; i++){
+            if(board[i][0] == 'O'){
+                dfs(board, n, m, i, 0);
             }
-            j++;
-        }
-
-        j = m - 1;
-        i = 0;
-        while (i < n) {
-            if (board[i][j] == 'O') {
-                dfs(board, n, m, i, j);
+            if(board[i][m-1] == 'O'){
+                dfs(board, n, m, i, m-1);
             }
-            i++;
-        }
-
-        j = 0;
-        i = 0;
-        while (i < n) {
-            if (board[i][j] == 'O') {
-                dfs(board, n, m, i, j);
-            }
-            i++;
         }
         for (int p = 0; p < n; p++) {
             for (int q = 0; q < m; q++) {
