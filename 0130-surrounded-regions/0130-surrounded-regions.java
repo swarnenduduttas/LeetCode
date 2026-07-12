@@ -44,7 +44,7 @@ class Solution {
         for (int k = 0; k < 4; k++) {
             int row = i + dX[k];
             int col = j + dY[k];
-            if (isValidPos(n, m, row, col) && board[row][col] == 'O') {
+            if (row >= 0 && row < n && col >= 0 && col < m && board[row][col] == 'O') {
                 dfs(board, n, m, row, col);
             }
         }
