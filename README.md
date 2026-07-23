@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnenduduttas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/swarnenduduttas/LeetCode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/swarnenduduttas/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/swarnenduduttas/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/swarnenduduttas/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swarnenduduttas/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/swarnenduduttas/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/swarnenduduttas/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/swarnenduduttas/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/swarnenduduttas/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/swarnenduduttas/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/swarnenduduttas/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/swarnenduduttas/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0778-swim-in-rising-water](https://github.com/swarnenduduttas/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/swarnenduduttas/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnenduduttas/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/swarnenduduttas/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/swarnenduduttas/LeetCode/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/swarnenduduttas/LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/swarnenduduttas/LeetCode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/swarnenduduttas/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/swarnenduduttas/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/swarnenduduttas/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swarnenduduttas/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/swarnenduduttas/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/swarnenduduttas/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/swarnenduduttas/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/swarnenduduttas/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/swarnenduduttas/LeetCode/tree/master/0994-rotting-oranges) |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/swarnenduduttas/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swarnenduduttas/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/swarnenduduttas/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/swarnenduduttas/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/swarnenduduttas/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/swarnenduduttas/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -443,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/swarnenduduttas/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/swarnenduduttas/LeetCode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/swarnenduduttas/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/swarnenduduttas/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/swarnenduduttas/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
